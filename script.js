@@ -11,6 +11,6 @@ function togglemode() {
     img.setAttribute("src", "./assets/avatar2.png")
   } else {
     // se tiver sem ligh mode , manter a imagem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avaatar.png")
   }
 }
